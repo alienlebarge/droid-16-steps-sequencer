@@ -1,6 +1,6 @@
 # 16 steps sequencer
 
-A 16 steps sequencer based on DROID's 8 step `[sequencer]`. It works well for
+A 16 steps sequencer based on DROID's 8 steps `[sequencer]`. It works well for
 preprogrammed drums
 
 ## Install
